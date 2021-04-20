@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="screenplayWeb.features.login.Login" skipped="0" tests="1" time="51.77" timestamp="2021-04-20T20:42:12.421+07:00[Asia/Bangkok]"><testcase classname="screenplayWeb.features.login.Login" name="Anna login"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+screenplayWeb.tasks.LoginAction.performAs(LoginAction.java:22)&#13;
+screenplayWeb.features.login.Login.annaLogin(Login.java:25)&#13;
+</system-err></testcase></testsuite>
